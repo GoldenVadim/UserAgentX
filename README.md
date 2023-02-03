@@ -1,2 +1,2 @@
 # UserAgentX
-<b align="center">A random user agent generator written in Python using the Python random-user-agent package.<b>
+<b>A random user agent generator written in Python using the Python random-user-agent package.<b>
