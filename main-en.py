@@ -9,7 +9,7 @@ def main():
         os.system("pip install random_user_agent")
         from random_user_agent.params import SoftwareName,OperatingSystem
         from random_user_agent.user_agent import UserAgent
-        global p
+    global p
     p=None
     if system()=="Windows":p="\\"
     elif system()=="Linux":p="//"
